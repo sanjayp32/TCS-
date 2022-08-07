@@ -1,6 +1,3 @@
-from os import sep
-
-
 def Pattern(x,y):
     for i in range(0,x):
         for j in range(0,y):
